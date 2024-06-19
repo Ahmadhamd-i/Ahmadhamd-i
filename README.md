@@ -2,6 +2,7 @@
 **Ahmadhamd-i/Ahmadhamd-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ### 👋 Hi there, I'm Ahmad Hamdy!
+### 👋 Backend Developer
 ![](https://komarev.com/ghpvc/?username=Ahmadhamd-i&color=fb4362)
 
 <h3>When I code, I rely on</h3>
@@ -22,6 +23,6 @@
 
 <h3>My GitHub contributions summary</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ahmadhamd-i &theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ahmadhamd-i&theme=dark&ring=fb4362&fire=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
-![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmadhamd-i &hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmadhamd-i&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
